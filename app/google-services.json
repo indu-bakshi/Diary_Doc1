@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131367218653",
+    "firebase_url": "https://diary-doc.firebaseio.com",
+    "project_id": "diary-doc",
+    "storage_bucket": "diary-doc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131367218653:android:22c5e628192b8c4e14da34",
+        "android_client_info": {
+          "package_name": "com.example.diarydocnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131367218653-b8o3iv8s94h2vfjtmt4rn6s8ga8ji9ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFF0AqjDZa7NKQ5hsWMqM-dWl7BgzOgzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131367218653-b8o3iv8s94h2vfjtmt4rn6s8ga8ji9ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
